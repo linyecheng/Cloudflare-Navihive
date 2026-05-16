@@ -18,11 +18,13 @@
         {
             "binding": "DB",
             "database_name": "navigation-db",
-            "database_id": "2317b525-1e38-4013-8575-de9bf14fa9e2"
+            "database_id": "5b4015c7-cbe7-4f21-a880-87420c535605"
         }
     ],
     "vars": {
-        "AUTH_ENABLED": "true",
+/**
+*       "AUTH_ENABLED": "true",
+**/
         "AUTH_USERNAME": "linyecheng",
         "AUTH_PASSWORD": "forestyc",
         "AUTH_SECRET": "forestyc"
