@@ -22,6 +22,7 @@
         }
     ],
     "vars": {
+        "AUTH_ENABLED": "false",
         "AUTH_USERNAME": "linyecheng",
         "AUTH_PASSWORD": "forestyc",
         "AUTH_SECRET": "forestyc"
